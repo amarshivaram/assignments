@@ -1,2 +1,2 @@
-# assignments
+# Assignments
 Programming assignments during M.Sc
